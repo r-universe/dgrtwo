@@ -7,11 +7,14 @@
 	path = fuzzyjoin
 	url = https://github.com/dgrtwo/fuzzyjoin
 	shallow = true
+	registered = true
 [submodule "unvotes"]
 	path = unvotes
 	url = https://github.com/dgrtwo/unvotes
 	shallow = true
+	registered = true
 [submodule "widyr"]
 	path = widyr
 	url = https://github.com/dgrtwo/widyr
 	shallow = true
+	registered = true
