@@ -1,0 +1,14 @@
+[
+  {
+    "package": "fuzzyjoin",
+    "oncran": true
+  },
+  {
+    "package": "unvotes",
+    "oncran": true
+  },
+  {
+    "package": "widyr",
+    "oncran": true
+  }
+]
