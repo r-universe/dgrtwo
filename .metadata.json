@@ -6,9 +6,5 @@
   {
     "package": "unvotes",
     "oncran": true
-  },
-  {
-    "package": "widyr",
-    "oncran": true
   }
 ]

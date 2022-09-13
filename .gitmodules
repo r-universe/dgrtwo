@@ -13,8 +13,3 @@
 	url = https://github.com/dgrtwo/unvotes
 	shallow = true
 	registered = true
-[submodule "widyr"]
-	path = widyr
-	url = https://github.com/dgrtwo/widyr
-	shallow = true
-	registered = true
