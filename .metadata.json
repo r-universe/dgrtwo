@@ -1,10 +1,10 @@
 [
   {
-    "package": "fuzzyjoin",
+    "package": "unvotes",
     "oncran": true
   },
   {
-    "package": "unvotes",
+    "package": "fuzzyjoin",
     "oncran": true
   }
 ]
