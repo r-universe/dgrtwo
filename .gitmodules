@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fuzzyjoin"]
 	path = fuzzyjoin
 	url = https://github.com/dgrtwo/fuzzyjoin
-	shallow = true
-	registered = true
 [submodule "unvotes"]
 	path = unvotes
 	url = https://github.com/dgrtwo/unvotes
-	shallow = true
-	registered = true
